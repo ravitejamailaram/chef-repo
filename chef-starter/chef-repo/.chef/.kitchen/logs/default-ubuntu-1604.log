@@ -1,0 +1,15 @@
+I, [2017-04-21T15:58:32.072664 #3914]  INFO -- default-ubuntu-1604: -----> Cleaning up any prior instances of <default-ubuntu-1604>
+I, [2017-04-21T15:58:32.073095 #3914]  INFO -- default-ubuntu-1604: -----> Destroying <default-ubuntu-1604>...
+I, [2017-04-21T15:58:32.073406 #3914]  INFO -- default-ubuntu-1604: [Dummy] Destroy on instance=#<Kitchen::Instance:0x00000001f9b568> with state={:my_id=>"default-ubuntu-1604-1492770459", :last_action=>"create", :last_error=>nil}
+I, [2017-04-21T15:58:32.074124 #3914]  INFO -- default-ubuntu-1604: Finished destroying <default-ubuntu-1604> (0m0.00s).
+I, [2017-04-21T15:58:32.074416 #3914]  INFO -- default-ubuntu-1604: -----> Testing <default-ubuntu-1604>
+I, [2017-04-21T15:58:32.074521 #3914]  INFO -- default-ubuntu-1604: -----> Creating <default-ubuntu-1604>...
+I, [2017-04-21T15:58:32.074617 #3914]  INFO -- default-ubuntu-1604: [Dummy] Create on instance=#<Kitchen::Instance:0x00000001f9b568> with state={:my_id=>"default-ubuntu-1604-1492770512"}
+I, [2017-04-21T15:58:32.075050 #3914]  INFO -- default-ubuntu-1604: Finished creating <default-ubuntu-1604> (0m0.00s).
+I, [2017-04-21T15:58:32.075179 #3914]  INFO -- default-ubuntu-1604: -----> Converging <default-ubuntu-1604>...
+I, [2017-04-21T15:58:32.075583 #3914]  INFO -- default-ubuntu-1604: Preparing files for transfer
+I, [2017-04-21T15:58:32.075707 #3914]  INFO -- default-ubuntu-1604: Preparing dna.json
+I, [2017-04-21T15:58:32.075930 #3914]  INFO -- default-ubuntu-1604: Berksfile, Cheffile, cookbooks/, or metadata.rb not found so Chef will run with effectively no cookbooks. Is this intended?
+I, [2017-04-21T15:58:32.076240 #3914]  INFO -- default-ubuntu-1604: Removing non-cookbook files before transfer
+I, [2017-04-21T15:58:32.076845 #3914]  INFO -- default-ubuntu-1604: Preparing solo.rb
+I, [2017-04-21T15:58:50.631674 #3914]  INFO -- default-ubuntu-1604: [SSH] connection failed, retrying in 1 seconds (#<Net::SSH::AuthenticationFailed: Authentication failed for user root@>)

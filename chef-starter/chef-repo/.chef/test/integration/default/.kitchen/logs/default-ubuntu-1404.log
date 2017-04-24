@@ -1,0 +1,22 @@
+I, [2017-04-21T18:25:23.182187 #30268]  INFO -- default-ubuntu-1404: -----> Cleaning up any prior instances of <default-ubuntu-1404>
+I, [2017-04-21T18:25:23.195004 #30268]  INFO -- default-ubuntu-1404: -----> Destroying <default-ubuntu-1404>...
+I, [2017-04-21T18:25:23.202762 #30268]  INFO -- default-ubuntu-1404: Finished destroying <default-ubuntu-1404> (0m0.00s).
+I, [2017-04-21T18:25:23.204510 #30268]  INFO -- default-ubuntu-1404: -----> Testing <default-ubuntu-1404>
+I, [2017-04-21T18:25:23.204722 #30268]  INFO -- default-ubuntu-1404: -----> Creating <default-ubuntu-1404>...
+I, [2017-04-21T18:25:30.411531 #30268]  INFO -- default-ubuntu-1404: Bringing machine 'default' up with 'virtualbox' provider...
+I, [2017-04-21T18:25:31.019111 #30268]  INFO -- default-ubuntu-1404: ==> default: Checking if box 'bento/ubuntu-14.04' is up to date...
+I, [2017-04-21T18:25:49.626720 #30268]  INFO -- default-ubuntu-1404: ==> default: Machine not provisioned because `--no-provision` is specified.
+I, [2017-04-21T18:26:11.316522 #30268]  INFO -- default-ubuntu-1404: Waiting for SSH service on 127.0.0.1:2222, retrying in 3 seconds
+I, [2017-04-21T18:26:29.334058 #30268]  INFO -- default-ubuntu-1404: Waiting for SSH service on 127.0.0.1:2222, retrying in 3 seconds
+I, [2017-04-21T18:26:47.351274 #30268]  INFO -- default-ubuntu-1404: Waiting for SSH service on 127.0.0.1:2222, retrying in 3 seconds
+I, [2017-04-21T18:27:05.369128 #30268]  INFO -- default-ubuntu-1404: Waiting for SSH service on 127.0.0.1:2222, retrying in 3 seconds
+I, [2017-04-21T18:27:23.386648 #30268]  INFO -- default-ubuntu-1404: Waiting for SSH service on 127.0.0.1:2222, retrying in 3 seconds
+I, [2017-04-21T18:27:41.404412 #30268]  INFO -- default-ubuntu-1404: Waiting for SSH service on 127.0.0.1:2222, retrying in 3 seconds
+I, [2017-04-21T18:27:59.421536 #30268]  INFO -- default-ubuntu-1404: Waiting for SSH service on 127.0.0.1:2222, retrying in 3 seconds
+I, [2017-04-21T18:28:17.436415 #30268]  INFO -- default-ubuntu-1404: Waiting for SSH service on 127.0.0.1:2222, retrying in 3 seconds
+I, [2017-04-21T18:28:35.454188 #30268]  INFO -- default-ubuntu-1404: Waiting for SSH service on 127.0.0.1:2222, retrying in 3 seconds
+I, [2017-04-21T18:28:53.471642 #30268]  INFO -- default-ubuntu-1404: Waiting for SSH service on 127.0.0.1:2222, retrying in 3 seconds
+I, [2017-04-21T18:29:11.489454 #30268]  INFO -- default-ubuntu-1404: Waiting for SSH service on 127.0.0.1:2222, retrying in 3 seconds
+I, [2017-04-21T18:29:29.504459 #30268]  INFO -- default-ubuntu-1404: Waiting for SSH service on 127.0.0.1:2222, retrying in 3 seconds
+I, [2017-04-21T18:29:47.521518 #30268]  INFO -- default-ubuntu-1404: Waiting for SSH service on 127.0.0.1:2222, retrying in 3 seconds
+I, [2017-04-21T18:30:05.534882 #30268]  INFO -- default-ubuntu-1404: Waiting for SSH service on 127.0.0.1:2222, retrying in 3 seconds
